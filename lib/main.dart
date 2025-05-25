@@ -31,7 +31,7 @@ class ExerciseOne extends StatelessWidget {
           /// Container with horizontal ListView
           Container(
             height: 120,
-            color: const Color.fromARGB(255, 255, 214, 241),
+            color: const Color.fromARGB(255, 255, 194, 235),
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
               itemCount: 10,
